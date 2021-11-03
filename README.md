@@ -22,5 +22,7 @@ I'm a self-taught passionate Web Developer
 <span style="margin-right: 5px;"><img width="40px" src="https://user-images.githubusercontent.com/58359912/132942482-8ad7c777-b5c9-4635-ba15-63fbbcbddc0b.png" /></span>
 
 
-<p align="center"> <a href="https://github.com/restumahesa26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=restumahesa26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Restu Mahesa's github stats" /></a> <a href="https://github.com/restumahesa26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restumahesa26&layout=compact&theme=buefy&hide_border=true" /></a> </p>
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=restumahesa26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Restu Mahesa's github stats" /> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restumahesa26&layout=compact&theme=buefy&hide_border=true" /></p>
  
