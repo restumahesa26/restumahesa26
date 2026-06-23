@@ -20,7 +20,7 @@
 
 I am a passionate **Full-Stack Developer** dedicated to building robust application architectures, efficient enterprise-grade platforms, and reliable institutional systems. 
 
-- 💼 **Current Status:** Civil Servant (PNS) & University Student.
+- 💼 **Current Status:** Fulltime Job.
 - 🚀 **Core Focus:** Building high-performance web applications, optimizing database queries, and exploring modern tech stacks.
 - 🧠 **Philosophy:** Write clean, human-centric code that is easy for teams to maintain, ensuring optimal performance and security.
 
